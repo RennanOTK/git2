@@ -1,0 +1,16 @@
+menu / terminal / novo terminal ou ctrl + shift + '
+troque powershell por bush	
+clique em + para novo terminal 
+clique em git bash
+
+comandos:
+
+git init
+
+git add .
+
+git status
+
+git commit "detalhes da alteração do arquivo"
+
+git log - verificar alterações do arquivo

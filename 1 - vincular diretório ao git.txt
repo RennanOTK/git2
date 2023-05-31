@@ -1,0 +1,8 @@
+crie uma pasta
+clique botão direito / bash here
+
+no terminal digite 
+code .
+
+vai abrir o terminal no vscode
+
